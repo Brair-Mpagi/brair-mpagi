@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Brair</h1>
 <h3 align="center">A skilled Computer Scientist</h3>
 
+👀 I'm open to job opportunities.
+
 - 🔭 I’m currently working on **A Modern Smart home system**
 
-- 🌱 I’m currently learning **React, Vue**
+- 🌱 I’m currently learning **Flask
 
 - 📫 How to reach me **brairmpagi@gmail.com**
 
