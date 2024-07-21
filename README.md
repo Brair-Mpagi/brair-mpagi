@@ -2,7 +2,7 @@
 <h3 align="center"> Computer Scientist</h3>
 
 
- ==>  &nbsp;&nbsp;&nbsp;&nbsp;  👀 I'm open to opportunities.
+ ==>  &nbsp;&nbsp;&nbsp;&nbsp;  👀 Open to opportunities.
 
 <h3 align="left">Connect with me:</h3>
 brairmpagi@gmail.com
