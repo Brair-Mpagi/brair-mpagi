@@ -5,7 +5,7 @@
  ==>  &nbsp;&nbsp;&nbsp;&nbsp;  👀 Open to opportunities.
 
 <h3 align="left">Connect with me:</h3>
-brairmpagi@gmail.com
+<a href="mailto:brairmpagi@gmail.com">brairmpagi@gmail.com</a>
  
 ## Languages I Know
 
@@ -14,10 +14,7 @@ brairmpagi@gmail.com
 
 
 ## Frameworks and Libraries
-![Tailwind CSS](https://img.icons8.com/?size=48&id=4PiNHtUJVbLs&format=png&color=000000)
-![React](https://img.icons8.com/color/48/000000/react-native.png) ![Angular](https://img.icons8.com/color/48/000000/angularjs.png) ![Vue.js](https://img.icons8.com/color/48/000000/vue-js.png)
-
-![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) ![Django](https://img.icons8.com/color/48/000000/django.png)  ![Flask](https://img.icons8.com/ios/50/000000/flask.png)
+![Tailwind CSS](https://img.icons8.com/?size=48&id=4PiNHtUJVbLs&format=png&color=000000) ![React](https://img.icons8.com/color/48/000000/react-native.png) ![Angular](https://img.icons8.com/color/48/000000/angularjs.png) ![Vue.js](https://img.icons8.com/color/48/000000/vue-js.png) ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) ![Django](https://img.icons8.com/color/48/000000/django.png)  ![Flask](https://img.icons8.com/ios/50/000000/flask.png)
 
 ### Mobile Development:
 ![Android](https://img.icons8.com/color/48/000000/android-os.png) ![Flutter](https://img.icons8.com/color/48/000000/flutter.png) 
