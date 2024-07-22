@@ -5,7 +5,21 @@
  ==>  &nbsp;&nbsp;&nbsp;&nbsp;  👀 Open to opportunities.
 
 <h3 align="left">Connect with me:</h3>
-<a href="mailto:brairmpagi@gmail.com">brairmpagi@gmail.com</a>
+
+<a href="mailto:brairmpagi@gmail.com">
+ <img src="https://img.icons8.com/?size=20&id=6BBCqlzE4iKd&format=png&color=000000">
+ brairmpagi@gmail.com</a>
+<br/>
+ <a href="https://wa.me/0758644682" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.icons8.com/?size=20&id=AltfLkFSP7XN&format=png&color=000000">
+  0758644682
+</a>
+<br/>
+ <a href="https://wa.me/0758644682" target="_blank" rel="noopener noreferrer">
+  <img href="https://img.icons8.com/?size=20&id=58pGdHAS6Va3&format=png&color=000000">
+  0758644682
+</a>
+
  
 ## Languages I Know
 
