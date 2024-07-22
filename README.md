@@ -16,7 +16,7 @@ brairmpagi@gmail.com
 
 
 ## Frameworks and Libraries
-![Tailwind CSS](https://img.icons8.com/ios/50/000000/tailwindcss.png)
+![Tailwind CSS](https://img.icons8.com/ios/50/000000/tailwindcss.png)  ![SASS](https://img.icons8.com/color/48/sass) 
 ![React](https://img.icons8.com/color/48/000000/react-native.png) ![Angular](https://img.icons8.com/color/48/000000/angularjs.png) ![Vue.js](https://img.icons8.com/color/48/000000/vue-js.png)
 
 ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) ![Django](https://img.icons8.com/color/48/000000/django.png)  ![Flask](https://img.icons8.com/ios/50/000000/flask.png)
@@ -32,4 +32,5 @@ brairmpagi@gmail.com
 <img src="https://img.icons8.com/color/48/000000/pycharm.png" alt="PyCharm"/> <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ IDEA"/>
 
 ## Operating Systems:
-![Kali Linux](https://img.icons8.com/material-outlined/50/000000/kali-linux.png) <img src="https://img.icons8.com/color/48/000000/ubuntu.png" alt="Ubuntu"/> <img src="https://img.icons8.com/ios/50/000000/windows-10.png" alt="Windows"/>
+![Kali Linux](https://img.icons8.com/color/48/kali-linux) ![Windows](https://img.icons8.com/color/48/windows-11) ![Ubuntu](https://img.icons8.com/color/48/ubuntu) 
+
