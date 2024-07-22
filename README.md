@@ -9,9 +9,7 @@ brairmpagi@gmail.com
  
 ## Languages I Know
 
- ![Python](https://img.icons8.com/color/48/000000/python.png)  ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)  ![PHP](https://img.icons8.com/color/48/000000/php.png) ![Kotlin](https://img.icons8.com/color/48/000000/kotlin.png)  ![TypeScript](https://img.icons8.com/ios/50/000000/typescript.png) <img src="https://img.icons8.com/ios/50/000000/c.png" alt="C"/>
-
-### Markup & Scripting Languages:
+ ![Python](https://img.icons8.com/color/48/000000/python.png)  ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) <img src="https://img.icons8.com/?size=48&id=JRi615uFErMu&format=png&color=000000" alt="C"/> ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)  ![PHP](https://img.icons8.com/color/48/000000/php.png) ![Kotlin](https://img.icons8.com/color/48/000000/kotlin.png)  ![TypeScript](https://img.icons8.com/ios/50/000000/typescript.png) 
  ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) ![CSS3](https://img.icons8.com/color/48/000000/css3.png)  ![XML](https://img.icons8.com/color/48/000000/xml.png) 
 
 
@@ -32,4 +30,5 @@ brairmpagi@gmail.com
 <img src="https://img.icons8.com/color/48/000000/pycharm.png" alt="PyCharm"/> <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ IDEA"/>
 
 ## Operating Systems:
-![Kali Linux](https://img.icons8.com/material-outlined/50/000000/kali-linux.png) <img src="https://img.icons8.com/color/48/000000/ubuntu.png" alt="Ubuntu"/> <img src="https://img.icons8.com/ios/50/000000/windows-10.png" alt="Windows"/>
+![Kali Linux](https://img.icons8.com/?size=48&id=CIAZz2CYc6Kc&format=png&color=000000) <img src="https://img.icons8.com/color/48/000000/ubuntu.png" alt="Ubuntu"/> 
+![windows 11](https://img.icons8.com/?size=48&id=TuXN3JNUBGOT&format=png&color=000000)
