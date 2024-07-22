@@ -10,16 +10,14 @@
  <img src="https://img.icons8.com/?size=20&id=6BBCqlzE4iKd&format=png&color=000000">
  brairmpagi@gmail.com</a>
 <br/>
- <a href="https://wa.me/0758644682" target="_blank" rel="noopener noreferrer">
+ <a href="https://wa.me/+256758644682" target="_blank" rel="noopener noreferrer">
   <img src="https://img.icons8.com/?size=20&id=AltfLkFSP7XN&format=png&color=000000">
   0758644682
 </a>
 <br/>
- <a href="https://wa.me/0758644682" target="_blank" rel="noopener noreferrer">
+<p>
   <img href="https://img.icons8.com/?size=20&id=58pGdHAS6Va3&format=png&color=000000">
-  0758644682
-</a>
-
+  0758644682 </p>
  
 ## Languages I Know
 
