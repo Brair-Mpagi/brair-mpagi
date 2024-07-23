@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brair</h1>
-<h3 align="center"> Computer Scientist</h3>
+<h3 align="center">A Computer Scientist</h3>
 
 
  ==>  &nbsp;&nbsp;&nbsp;&nbsp;  👀 Open to opportunities.
