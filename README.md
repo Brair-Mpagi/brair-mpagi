@@ -62,7 +62,7 @@
         <img src="https://img.icons8.com/color/25/000000/intellij-idea.png" alt="IntelliJ IDEA"/>
       </td>
       <td>
-        <img src="https://img.icons8.com/?size=25&id=CIAZz2CYc6Kc&format=png&color=000000" alt="Kali Linux"/>
+        <img src="https://img.icons8.com/color/25/000000/kali-linux" alt="Kali Linux"/>
         <img src="https://img.icons8.com/color/25/000000/ubuntu.png" alt="Ubuntu"/>
         <img src="https://img.icons8.com/?size=25&id=TuXN3JNUBGOT&format=png&color=000000" alt="Windows 11"/>
       </td>
