@@ -6,7 +6,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<a href="mailto:brairmpagi45@gmail.com">
+<a href="mailto:brairmpagi45.com">
  <img src="https://img.icons8.com/?size=20&id=6BBCqlzE4iKd&format=png&color=000000">
  brairmpagi@gmail.com</a>
 <br/>
