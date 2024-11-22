@@ -8,7 +8,7 @@
 
 <a href="mailto:brairmpagi45.com">
  <img src="https://img.icons8.com/?size=20&id=6BBCqlzE4iKd&format=png&color=000000">
- brairmpagi@gmail.com</a>
+ brairmpagi45@gmail.com</a>
 <br/>
  <a href="https://wa.me/+256758644682" target="_blank" rel="noopener noreferrer">
   <img src="https://img.icons8.com/?size=20&id=AltfLkFSP7XN&format=png&color=000000">
