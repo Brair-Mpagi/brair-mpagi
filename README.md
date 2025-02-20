@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Brair</h1>
-<h3 align="center">Computer Science Student </h3>
+
 
 <p align="center">
   <a href="mailto:brairmpagi45@gmail.com">
@@ -18,35 +18,24 @@
 ---
 
 ### 👨‍💻 About Me
-I am a passionate and driven **Computer Science student** with a strong foundation in software development, problem-solving, and system design. My expertise spans **web development, mobile app development, machine learning, cybersecurity, and database management**. I am actively seeking opportunities to apply my skills in real-world projects and contribute to innovative solutions. My goal is to grow as a **Software Engineer** while continuously learning and adapting to new technologies.
+Simply a passionate computer scientist, 
 
 ---
 
 ### 🛠️ Technical Skills
-
-#### **Programming Languages**
 ![Python](https://img.icons8.com/color/25/000000/python.png) Python &nbsp;
 ![JavaScript](https://img.icons8.com/color/25/000000/javascript.png) JavaScript &nbsp;
 ![Java](https://img.icons8.com/color/25/000000/java-coffee-cup-logo.png) Java &nbsp;
 ![C](https://img.icons8.com/?size=25&id=JRi615uFErMu&format=png&color=000000) C &nbsp;
-![C++](https://img.icons8.com/color/25/000000/c-plus-plus-logo.png) C++ &nbsp;
-![Kotlin](https://img.icons8.com/color/25/000000/kotlin.png) Kotlin &nbsp;
-![TypeScript](https://img.icons8.com/ios/50/000000/typescript.png) TypeScript &nbsp;
 ![PHP](https://img.icons8.com/color/25/000000/php.png) PHP &nbsp;
-
-#### **Web Development**
 ![HTML5](https://img.icons8.com/color/25/000000/html-5.png) HTML5 &nbsp;
 ![CSS3](https://img.icons8.com/color/25/000000/css3.png) CSS3 &nbsp;
 ![React](https://img.icons8.com/color/25/000000/react-native.png) React &nbsp;
 ![Next.js](https://img.icons8.com/color/25/000000/nextjs.png) Next.js &nbsp;
-![Angular](https://img.icons8.com/color/25/000000/angularjs.png) Angular &nbsp;
-![Vue.js](https://img.icons8.com/color/25/000000/vue-js.png) Vue.js &nbsp;
 ![Node.js](https://img.icons8.com/color/25/000000/nodejs.png) Node.js &nbsp;
 ![Django](https://img.icons8.com/color/25/000000/django.png) Django &nbsp;
 ![Flask](https://img.icons8.com/ios/50/000000/flask.png) Flask &nbsp;
 ![Tailwind CSS](https://img.icons8.com/?size=25&id=4PiNHtUJVbLs&format=png&color=000000) Tailwind CSS &nbsp;
-
-#### ****
 ![Android](https://img.icons8.com/color/25/000000/android-os.png) Android &nbsp;
 ![Flutter](https://img.icons8.com/color/25/000000/flutter.png) Flutter &nbsp;
 ![TensorFlow](https://img.icons8.com/color/25/000000/tensorflow.png) TensorFlow &nbsp;
