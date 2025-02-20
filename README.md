@@ -46,36 +46,16 @@ I am a passionate and driven **Computer Science student** with a strong foundati
 ![Flask](https://img.icons8.com/ios/50/000000/flask.png) Flask &nbsp;
 ![Tailwind CSS](https://img.icons8.com/?size=25&id=4PiNHtUJVbLs&format=png&color=000000) Tailwind CSS &nbsp;
 
-#### **Mobile Development**
+#### ****
 ![Android](https://img.icons8.com/color/25/000000/android-os.png) Android &nbsp;
 ![Flutter](https://img.icons8.com/color/25/000000/flutter.png) Flutter &nbsp;
-
-#### **Database Technologies**
-![MySQL](https://img.icons8.com/color/25/000000/mysql-logo.png) MySQL &nbsp;
-![MongoDB](https://img.icons8.com/color/25/000000/mongodb.png) MongoDB &nbsp;
-
-#### **Machine Learning & AI**
 ![TensorFlow](https://img.icons8.com/color/25/000000/tensorflow.png) TensorFlow &nbsp;
 ![Scikit-learn](https://img.icons8.com/color/25/000000/scikit-learn.png) Scikit-learn &nbsp;
-
-#### **Cybersecurity**
-- Knowledge of cryptographic algorithms
-- Network security principles
-
-#### **Blockchain & Crypto Technology**
-- Basic understanding of blockchain technology and cryptocurrencies
-
-#### **UI/UX Design**
-- Experience in designing user-friendly interfaces
-
-#### **Tools & Platforms**
 ![Git](https://img.icons8.com/color/25/000000/git.png) Git &nbsp;
 ![AWS](https://img.icons8.com/color/25/000000/amazon-web-services.png) AWS &nbsp;
 ![VS Code](https://img.icons8.com/color/25/000000/visual-studio-code-2019.png) VS Code &nbsp;
 ![PyCharm](https://img.icons8.com/color/25/000000/pycharm.png) PyCharm &nbsp;
 ![IntelliJ IDEA](https://img.icons8.com/color/25/000000/intellij-idea.png) IntelliJ IDEA &nbsp;
-
-#### **Operating Systems**
 ![Kali Linux](https://img.icons8.com/color/25/000000/kali-linux.png) Kali Linux &nbsp;
 ![Ubuntu](https://img.icons8.com/color/25/000000/ubuntu.png) Ubuntu &nbsp;
 ![Windows](https://img.icons8.com/?size=25&id=TuXN3JNUBGOT&format=png&color=000000) Windows &nbsp;
@@ -83,8 +63,6 @@ I am a passionate and driven **Computer Science student** with a strong foundati
 
 
 ### 🌱 Currently Learning
-- Advanced Algorithms and Data Structures
-- Cloud Computing (AWS, Azure)
 - Machine Learning and AI
 - Natural Language Processing (NLP)
 - Blockchain and Cryptocurrency Technologies
