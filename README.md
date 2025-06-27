@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Brair</h1>
+<h1 align="center">Hello there 👋, I'm Brair</h1>
 
 
 <p align="center">
