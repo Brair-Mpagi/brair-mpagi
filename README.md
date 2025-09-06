@@ -21,39 +21,39 @@ Computer Science professional with expertise in full-stack development, machine 
 ### 🛠️ Technical Proficiencies
 
 **Programming Languages:**
-![Python](https://img.icons8.com/color/25/000000/python.png) Python &nbsp;
-![JavaScript](https://img.icons8.com/color/25/000000/javascript.png) JavaScript &nbsp;
-![Java](https://img.icons8.com/color/25/000000/java-coffee-cup-logo.png) Java &nbsp;
-![C](https://img.icons8.com/?size=25&id=JRi615uFErMu&format=png&color=000000) C &nbsp;
-![PHP](https://img.icons8.com/color/25/000000/php.png) PHP
+![Python](https://img.icons8.com/color/25/000000/python.png);
+![JavaScript](https://img.icons8.com/color/25/000000/javascript.png);
+![Java](https://img.icons8.com/color/25/000000/java-coffee-cup-logo.png);
+![C](https://img.icons8.com/?size=25&id=JRi615uFErMu&format=png&color=000000);
+![PHP](https://img.icons8.com/color/25/000000/php.png);
 
 **Web Technologies:**
-![React](https://img.icons8.com/color/25/000000/react-native.png) React &nbsp;
-![Next.js](https://img.icons8.com/color/25/000000/nextjs.png) Next.js &nbsp;
-![Node.js](https://img.icons8.com/color/25/000000/nodejs.png) Node.js &nbsp;
-![Django](https://img.icons8.com/color/25/000000/django.png) Django &nbsp;
-![Flask](https://img.icons8.com/ios/50/000000/flask.png) Flask &nbsp;
-![Tailwind CSS](https://img.icons8.com/?size=25&id=4PiNHtUJVbLs&format=png&color=000000) Tailwind CSS
+![React](https://img.icons8.com/color/25/000000/react-native.png);
+![Next.js](https://img.icons8.com/color/25/000000/nextjs.png);
+![Node.js](https://img.icons8.com/color/25/000000/nodejs.png);
+![Django](https://img.icons8.com/color/25/000000/django.png);
+![Flask](https://img.icons8.com/ios/50/000000/flask.png);
+![Tailwind CSS](https://img.icons8.com/?size=25&id=4PiNHtUJVbLs&format=png&color=000000);
 
 **Mobile Development:**
-![Android](https://img.icons8.com/color/25/000000/android-os.png) Android &nbsp;
-![Flutter](https://img.icons8.com/color/25/000000/flutter.png) Flutter
+![Android](https://img.icons8.com/color/25/000000/android-os.png);
+![Flutter](https://img.icons8.com/color/25/000000/flutter.png)
 
 **Machine Learning & AI:**
-![TensorFlow](https://img.icons8.com/color/25/000000/tensorflow.png) TensorFlow &nbsp;
-![Scikit-learn](https://img.icons8.com/color/25/000000/scikit-learn.png) Scikit-learn
+![TensorFlow](https://img.icons8.com/color/25/000000/tensorflow.png);
+![Scikit-learn](https://img.icons8.com/color/25/000000/scikit-learn.png)
 
 **Development Tools & Platforms:**
-![Git](https://img.icons8.com/color/25/000000/git.png) Git &nbsp;
-![AWS](https://img.icons8.com/color/25/000000/amazon-web-services.png) AWS &nbsp;
-![VS Code](https://img.icons8.com/color/25/000000/visual-studio-code-2019.png) VS Code &nbsp;
-![PyCharm](https://img.icons8.com/color/25/000000/pycharm.png) PyCharm &nbsp;
-![IntelliJ IDEA](https://img.icons8.com/color/25/000000/intellij-idea.png) IntelliJ IDEA
+![Git](https://img.icons8.com/color/25/000000/git.png);
+![AWS](https://img.icons8.com/color/25/000000/amazon-web-services.png);
+![VS Code](https://img.icons8.com/color/25/000000/visual-studio-code-2019.png);
+![PyCharm](https://img.icons8.com/color/25/000000/pycharm.png);
+![IntelliJ IDEA](https://img.icons8.com/color/25/000000/intellij-idea.png) 
 
 **Operating Systems:**
-![Kali Linux](https://img.icons8.com/color/25/000000/kali-linux.png) Kali Linux &nbsp;
-![Ubuntu](https://img.icons8.com/color/25/000000/ubuntu.png) Ubuntu &nbsp;
-![Windows](https://img.icons8.com/?size=25&id=TuXN3JNUBGOT&format=png&color=000000) Windows
+![Kali Linux](https://img.icons8.com/color/25/000000/kali-linux.png);
+![Ubuntu](https://img.icons8.com/color/25/000000/ubuntu.png);
+![Windows](https://img.icons8.com/?size=25&id=TuXN3JNUBGOT&format=png&color=000000)
 
 ---
 
