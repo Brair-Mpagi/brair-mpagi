@@ -2,8 +2,8 @@
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│  mpagi.derrick.brair  //  Computer Science                  │
-│  Full-Stack · Machine Learning · Systems Engineering        │
+│  Mpagi Derrick Brair  //  Developer                         │
+│                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -12,30 +12,8 @@
 </div>
 
 ---
-
-Software engineer based in Uganda, focused on intelligent systems. I build full-stack applications and ML pipelines — recent work includes a RAG-based AI conversation system for institutional knowledge retrieval, using FAISS, Sentence Transformers, and locally-served LLMs via Ollama.
-
-Interested in the overlap between backend architecture, applied ML, and systems that hold up under real constraints.
-
----
-
-## Stack
-
-**Languages** &nbsp; `Python` `JavaScript` `Java` `PHP` `C`
-
-**Frontend** &nbsp; `React` `Next.js` `Tailwind CSS`
-
-**Backend** &nbsp; `FastAPI` `Django` `Flask` `Node.js` `REST` `JWT`
-
-**Databases** &nbsp; `PostgreSQL` `MySQL` `MongoDB` `Firebase`
-
-**ML / AI** &nbsp; `TensorFlow` `Scikit-learn` `HuggingFace` `FAISS` `Sentence Transformers` `LangChain` `Ollama`
-
-**Data** &nbsp; `Pandas` `NumPy` `Matplotlib` `Jupyter`
-
-**Mobile** &nbsp; `Android (Java)` `Flutter`
-
-**Infra** &nbsp; `Docker` `AWS` `Nginx` `Git` `Linux`
+Software Engineer interested in Networking / networks Security and cryptography, AI, Machine Learning, DeepLearning, Web3 and Backend Development.
+— recent work includes a RAG-based AI conversation system for institutional knowledge retrieval, using FAISS, Sentence Transformers, and locally-served LLMs.
 
 ---
 
@@ -43,7 +21,7 @@ Interested in the overlap between backend architecture, applied ML, and systems 
 
 ```python
 focus   = ["AI/ML/DeepLearning systems", "NLP", "distributed systems"]
-open_to = ["grad roles", "research", "consulting"]
+open_to = ["graduate roles", "research opportunities", "consulting roles"]
 ```
 
 ---
