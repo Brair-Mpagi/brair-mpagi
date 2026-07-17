@@ -2,7 +2,7 @@
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│ Hey, am Brair Mpagi Derrick  // A Computer-Scientist        │
+│ Hey, am Brair Mpagi Brair  // A Computer-Scientist          │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
