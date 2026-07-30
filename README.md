@@ -1,10 +1,8 @@
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│ Hey, am Brair Mpagi Brair  // A Computer-Scientist          │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+I'm Brair
+AI/ML Engineer, Software Engineer & Cybersecurity Enthusiast
 ```
 
 [![Email](https://img.shields.io/badge/brairmpagi45%40gmail.com-0A0A0A?style=flat-square&logo=gmail&logoColor=white)](mailto:brairmpagi45@gmail.com)
@@ -12,7 +10,7 @@
 </div>
 
 ---
-Software Engineer focused on Machine Learning, Deep Learning, Neural Networks, Web3, and Backend Development.
+Software Engineer focused on ML/AI, Deep Learning, Neural Networks, Web3, and Backend Development.
 Interested in Networks & Cybersecurity, and Cryptography.
 
 Recent work includes research in RAG-based AI conversation system for institutional knowledge retrieval, using FAISS, Sentence Transformers, and locally-served LLMs.
