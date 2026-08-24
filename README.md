@@ -21,8 +21,8 @@ Recent work includes research in RAG-based AI conversation system for institutio
 ## Currently
 
 ```python
-focus   = ["AI - ML- DeepLearning", "NLP", "Neural Networks", "Linux Systems", "Cryptography", "Web3"]
-open_to = ["Collaboration", "Research opportunities", "Consulting roles"]
+focus   = ["AI-ML-DeepLearning", "NLP", "Neural Networks", "Linux Systems", "Cryptography", "Web3"]
+open_to = ["Collaboration", "Research & Consulting roles"]
 ```
 
 
