@@ -10,7 +10,7 @@ Welcome To My CodeSpace
 </div>
 
 ---
-An AI/ML Engineer, Software Engineer & Cybersecurity Enthusiast
+An AI/ML Eng, Software Engineer & Cybersecurity Enthusiast
 
 
 
