@@ -1,28 +1,23 @@
 <div align="center">
 
-```
-Hy, I'm Brair
+Hi, I'm Brair  
 Welcome To My CodeSpace
-```
 
 [![Email](https://img.shields.io/badge/brairmpagi45%40gmail.com-0A0A0A?style=flat-square&logo=gmail&logoColor=white)](mailto:brairmpagi45@gmail.com)
 
 </div>
 
 ---
-An AI/ML - Software Engineer & Cybersecurity Enthusiast
 
+Software Engineer | AI/ML | Backend & Systems Engineering
 
+Building software systems spanning backend development, database integration, AI-powered applications, and Linux environments. Experienced in developing applications, integrating APIs and data systems, testing software, troubleshooting technical issues, and exploring system security.
 
-Recent work includes research in RAG-based AI conversation system for institutional knowledge retrieval, using FAISS, Sentence Transformers, and locally-served LLMs.
+Recent work includes a RAG-based institutional knowledge retrieval system integrating document processing, semantic search, FAISS, Sentence Transformers, and locally served LLMs.
 
 ---
 
-## Currently
+## Core Stack
 
 ```python
-focus   = ["AI-ML-DeepLearning", "NLP", "Neural Networks", "Linux Systems", "Cryptography", "Web3"]
-open_to = ["Collaboration", "Research & Consulting roles"]
-```
-
-
+ PL = Python, Java in backend systems + [FastAPI,SpringBoot] and associated frameworks
